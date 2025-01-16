@@ -39,10 +39,10 @@
   "dependencies": {},
   "devDependencies": {
     "@antfu/eslint-config": "1.1.1",
-    "@types/node": "^20.9.0",
-    "bumpp": "^9.2.0",
+    "@types/node": "^20.17.14",
+    "bumpp": "^9.10.1",
     "eslint": "^8.53.0",
-    "jiti": "^1.21.0",
+    "jiti": "^1.21.7",
     "unbuild": "^2.0.0"
   }
 }
